@@ -1,0 +1,20 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ïÅö
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¶ù´ûÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(“ï¼ø
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(µ“ˆÏüÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(Ò™ÿËıÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(¤ïíÉ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(¸¿”Üûÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(÷Şëòúÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(ÁÀçıÿÿÿÿ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(ìá¨Èùÿÿÿÿ
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(Ñ¬²
+d
+java:S1226"IIntroduce a new variable instead of reusing the parameter "randomNumber".(„àïÖşÿÿÿÿ
+d
+java:S1226"IIntroduce a new variable instead of reusing the parameter "randomNumber".(ãÓº¤ùÿÿÿÿ
+d
+java:S1226$"IIntroduce a new variable instead of reusing the parameter "randomNumber".(ŸÔÅÿÿÿÿÿ
