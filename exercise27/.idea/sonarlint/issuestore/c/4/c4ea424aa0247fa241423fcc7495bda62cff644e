@@ -1,0 +1,10 @@
+
+_
+java:S1854R"=Remove this useless assignment to local variable "zipNumber".(¿¡»†üÿÿÿÿ8É×÷ûÃ/
+P
+java:S1481R".Remove this unused "zipNumber" local variable.(¿¡»†üÿÿÿÿ8Ê×÷ûÃ/
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(Û¬çŞøÿÿÿÿ8êæğûÃ/
+U	java:S106|"9Replace this use of System.out or System.err by a logger.(Â ê8ìæğûÃ/
+V	java:S106€"9Replace this use of System.out or System.err by a logger.(€™±8íæğûÃ/
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(ÑŞ½ûÿÿÿÿ8íæğûÃ/
+U	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(œºµU8îæğûÃ/
