@@ -1,0 +1,18 @@
+
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(ÖáõÓ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(ì³íÒşÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(ˆğõŒùÿÿÿÿ
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(ö¬å…
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(™Îƒ³úÿÿÿÿ
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(³±ßëÿÿÿÿÿ8±‚¨Ä/
+U	java:S106V"9Replace this use of System.out or System.err by a logger.(Ò®İÎ8¨Õ¨Ä/
+}
+java:S1319"gThe type of "numbers" should be an interface such as "List" rather than the implementation "ArrayList".(åùïŞ
+}
+java:S1319"gThe type of "numbers" should be an interface such as "List" rather than the implementation "ArrayList".(ÅÎ¿Ù
+‰
+java:S1319 "gThe type of "numbers" should be an interface such as "List" rather than the implementation "ArrayList".(Á§ôûÿÿÿÿ8øå˜¨Ä/
+‰
+java:S1319)"gThe type of "numbers" should be an interface such as "List" rather than the implementation "ArrayList".(ÂêÁ»ùÿÿÿÿ8øå˜¨Ä/
+€
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "averageNumber".(ú¢Œ«úÿÿÿÿ
