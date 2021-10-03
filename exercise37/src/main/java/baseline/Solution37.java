@@ -15,7 +15,7 @@ public class Solution37 {
         ArrayList<Character>characters = new ArrayList<>();
         //String = all the values of possible Characters
         String letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
-        String specialCharacters = "!@#$%^&*_-+=?/:<,>.{}[]';";
+        String specialCharacters = "!@#$%^&*_+=?/:<,>.{}';";
         String numbers = "1234567890";
 
         //Loop Each Character to add random Character to the Array
