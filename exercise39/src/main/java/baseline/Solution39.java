@@ -87,11 +87,6 @@ public class Solution39 {
                 System.out.print( employ.getFirstName() +" "+ employ.getLastName() +" | "+ employ.getPosition() + " | "+employ.separationDate +"\n");
             }
 
-            //Make them in Employee
-
-
-
-
         }
 
 
